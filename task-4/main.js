@@ -10,6 +10,6 @@ let figure = {
       return 2*(figure.length+figure.width)
   }
 };
-
-console.log(figure.area());
 console.log(figure.perimeter()); 
+console.log(figure.area());
+
